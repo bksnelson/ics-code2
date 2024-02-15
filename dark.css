@@ -1,0 +1,38 @@
+body{
+  font-family: sans-serif;
+  background-color: black;
+}
+.navbar{
+  border-bottom: 1px solid white;
+  align-items: center;
+  display: flex;
+}
+.editing-area{
+  font-family: monospace;
+}
+#logo{
+  height: 100%;
+}
+.navbar a{
+  margin: 0.16em;
+  padding: 0.64em;
+  text-decoration-line: none;
+  background-color: blue;
+  color: white;
+}
+.navbar a:hover{
+  background-color: #1c8383;
+  color: ivory;
+}
+h2{
+  color: white;
+}
+textarea{
+  width: 50%;
+  height: 50vh;
+}
+#input {
+  background-color: black;
+  color: white;
+}
+
